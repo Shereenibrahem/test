@@ -1,0 +1,4 @@
+1486080098.462887 start serv11486080102.47987 start serv21486080132.47127 finish serv11486080198.462887 start serv11486080202.47987 finish serv21486080298.462887 start serv11486080332.47127 finish serv11486080367.47127 finish serv1time-> serv1-start serv2-start serv1-end serv1-start serv2-end serv1-start serv1-end serv1-end
+Service1:   s------s1------e        s-----------s1-----------e
+                                                   s------s1------e
+Service2:         s------s2------e
